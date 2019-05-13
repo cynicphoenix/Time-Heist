@@ -29,7 +29,7 @@ This is Digital Logic Design Verilog Basys 3 project : Alarm Clock & Stop Watch!
 ## Stop Watch :
 - Lap Feature
 - Store 4 Lap Values
-More details in [DLD_Report](https://github.com/cynicphoenix/Time-Heist/blob/master/DLD%20REPORT.pdf)
+- More details in [DLD_Report](https://github.com/cynicphoenix/Time-Heist/blob/master/DLD%20REPORT.pdf)
 
 
 ## Created by :
