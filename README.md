@@ -19,17 +19,14 @@ This is Digital Logic Design Verilog Basys 3 project : Alarm Clock & Stop Watch!
 
 
 ## Alarm Clock : 
-At start set current time & load it into FPGA.
-Set the alarm time & turn on the alarm.
+- At start set current time & load it into FPGA
+- Set the alarm time & turn on the alarm
 - Snooze Button
 - Snooze Time
-By default snooze time is one minute.
-More details in [DLD_Report](https://github.com/cynicphoenix/Time-Heist/blob/master/DLD%20REPORT.pdf)
+- By default snooze time is one minute
 
 
 ## Stop Watch :
-Basic stop watch.
-Minutes & Seconds only.
 - Lap Feature
 - Store 4 Lap Values
 More details in [DLD_Report](https://github.com/cynicphoenix/Time-Heist/blob/master/DLD%20REPORT.pdf)
