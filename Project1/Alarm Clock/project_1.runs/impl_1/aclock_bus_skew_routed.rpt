@@ -1,0 +1,15 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.2 (lin64) Build 2258646 Thu Jun 14 20:02:38 MDT 2018
+| Date         : Tue Nov 27 19:34:38 2018
+| Host         : lab running 64-bit Ubuntu 16.04.4 LTS
+| Command      : report_bus_skew -warn_on_violation -file aclock_bus_skew_routed.rpt -pb aclock_bus_skew_routed.pb -rpx aclock_bus_skew_routed.rpx
+| Design       : aclock
+| Device       : 7a35t-cpg236
+| Speed File   : -1  PRODUCTION 1.22 2018-03-21
+---------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+
